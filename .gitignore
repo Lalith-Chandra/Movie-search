@@ -1,0 +1,4 @@
+minilm_model/
+plot_embeddings.npy
+*.zip
+movies (2).csv
