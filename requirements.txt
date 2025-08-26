@@ -1,0 +1,4 @@
+sentence-transformers>=2.2
+pandas
+scikit-learn
+numpy
